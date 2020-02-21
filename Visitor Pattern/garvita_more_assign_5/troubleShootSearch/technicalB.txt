@@ -1,8 +1,0 @@
-If Debian has a problem detecting the drive, it could be that the portable drive is not receiving enough power
-It may be hard to believe, but a completely dead hard drive may be the best option for a hard drive failure
-When your drive is dead, it could be a problem with the computer power supply or the cables, or the drive itself could have just stopped
-Those clicking and grinding noises indicate damage to the read/write heads of your drive, and that is a mechanical issue that an expert should fix
-The operating system on your computer is constantly scanning, accessing, and writing data to your hard drive
-It is always best to start with the obvious things first when you are trying to figure out how to recover data from a damaged hard drive
-If your BIOS can see your hard drive after replacing your data cable, then you probably just solved your problem
-Mirroring the damaged drive to a fresh drive to salvage your data
