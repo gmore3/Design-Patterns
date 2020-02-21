@@ -1,8 +1,0 @@
-HDD is more affordable than SSD in terms of dollar per gigabit
-Compared with an HDD, an SSD storage system have a base capacity of 128GB
-SSDs are becoming more popular as well and the technology involved in producing this HDD counterpart is becoming more efficient
-Longevity in terms longer lifespan is another worthy advantage of hard disk drives
-SSD is faster than HDD
-HDD is prone to fragmentation of its data because of its rotary recording surface, it is inherently slow as compared to fragmentation-free SSD
-HDD produces noise while in operation as compared to SSD
-The movable mechanical parts of an HDD make it physically vulnerable to mechanical damages due to drops and shudder
